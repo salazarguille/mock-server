@@ -1,12 +1,14 @@
 {
 	"validateUuid": [
 		{
-			"id": "false",
-			"result": false
+			"id": 1,
+			"result": false,
+			"text": "false"
 		},
 		{
-			"id": "true",
-			"result": true
+			"id": 1,
+			"result": true,
+			"text": "true"
 		}
 	]
 }
